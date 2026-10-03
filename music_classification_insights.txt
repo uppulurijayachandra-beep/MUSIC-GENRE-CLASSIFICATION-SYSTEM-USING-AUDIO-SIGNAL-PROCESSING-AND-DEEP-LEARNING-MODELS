@@ -1,0 +1,75 @@
+MUSIC GENRE CLASSIFICATION SYSTEM - AUDIO ANALYSIS INSIGHTS
+======================================================================
+
+Total Tracks Analyzed: 1000
+Total Genres: 8
+Genres: Blues, Classical, Country, Electronic, Hip-Hop, Jazz, Pop, Rock
+
+
+Key Audio Features:
+----------------------------------------------------------------------
+  Average Tempo: 122.91 BPM
+  Average Energy: 0.58
+  Average Danceability: 0.62
+  Average Acousticness: 0.62
+  Average Valence: 0.51
+
+
+Genre Characteristics:
+----------------------------------------------------------------------
+
+  Blues:
+    Tracks: 134
+    Avg Energy: 0.52
+    Avg Danceability: 0.50
+    Avg Acousticness: 0.78
+    Avg Tempo: 119.76 BPM
+
+  Classical:
+    Tracks: 146
+    Avg Energy: 0.33
+    Avg Danceability: 0.48
+    Avg Acousticness: 0.88
+    Avg Tempo: 140.13 BPM
+
+  Country:
+    Tracks: 119
+    Avg Energy: 0.50
+    Avg Danceability: 0.49
+    Avg Acousticness: 0.77
+    Avg Tempo: 113.78 BPM
+
+  Electronic:
+    Tracks: 113
+    Avg Energy: 0.83
+    Avg Danceability: 0.74
+    Avg Acousticness: 0.48
+    Avg Tempo: 120.27 BPM
+
+  Hip-Hop:
+    Tracks: 125
+    Avg Energy: 0.67
+    Avg Danceability: 0.77
+    Avg Acousticness: 0.52
+    Avg Tempo: 123.81 BPM
+
+  Jazz:
+    Tracks: 113
+    Avg Energy: 0.48
+    Avg Danceability: 0.55
+    Avg Acousticness: 0.76
+    Avg Tempo: 120.03 BPM
+
+  Pop:
+    Tracks: 117
+    Avg Energy: 0.64
+    Avg Danceability: 0.85
+    Avg Acousticness: 0.49
+    Avg Tempo: 124.06 BPM
+
+  Rock:
+    Tracks: 133
+    Avg Energy: 0.76
+    Avg Danceability: 0.66
+    Avg Acousticness: 0.24
+    Avg Tempo: 118.15 BPM
